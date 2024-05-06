@@ -1,6 +1,6 @@
 ## Hotel Booking Dashboard 2022-2023 :hotel: :calendar:
 
-### Hypothetical Problem Statement :question:
+### Problem Statement :question:
 
 The hospitality industry is facing a significant challenge with fluctuating booking rates and cancellations. This dashboard aims to provide insights into these issues for the years 2022-2023, helping hoteliers, travel agencies, and researchers make informed decisions.
 
