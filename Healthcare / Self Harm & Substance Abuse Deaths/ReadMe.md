@@ -1,6 +1,6 @@
 ## Self Harm & Drug Abuse Dashboard 2022-2023 :hospital: :pill:
 
-### Hypothetical Problem Statement :question:
+### Problem Statement :question:
 
 The healthcare industry is facing a significant challenge with the increasing rates of self-harm and substance abuse worldwide. This dashboard aims to provide insights into these issues for the years 2022-2023, helping healthcare professionals, policymakers, and researchers make informed decisions.
 
