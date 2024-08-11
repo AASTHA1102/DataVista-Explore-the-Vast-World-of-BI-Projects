@@ -1,6 +1,6 @@
 ## SNACK EAT UP! Financial Analysis Dashboard 2020-2024 :office: :chart_with_upwards_trend:
 
-Note - Cannot upload pbix and xlsx file due to file size constraints.
+Note - Cannot upload **.pbix** and **.xlsx** file due to file size constraints.
 
 ### Problem Statement :question:
 
