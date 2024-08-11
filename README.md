@@ -14,6 +14,7 @@ Explore a diverse range of BI projects across various domains:
 7. Insurance: Claims analysis and fraud detection
 8. Finance: Financial forecasting and analysis
 9. Marketing: Campaign performance evaluation
+10. FMCG Industry : Fast-Moving Consumer Goods
 
 ## Getting Started
 
