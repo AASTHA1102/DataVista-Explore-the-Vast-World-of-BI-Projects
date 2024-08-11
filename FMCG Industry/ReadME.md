@@ -1,5 +1,8 @@
 ## FMCG Industry: Harnessing Data for Business Excellence
 
+
+Note - Cannot upload pbix and xlsx file due to file size constraints.
+
 In the FMCG (Fast-Moving Consumer Goods) industry, data is a key asset in driving consumer satisfaction and operational efficiency. 🛒📈
 
 ### Importance of FMCG Analytics
