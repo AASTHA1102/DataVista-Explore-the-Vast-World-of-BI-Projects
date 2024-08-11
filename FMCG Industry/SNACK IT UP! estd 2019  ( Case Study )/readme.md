@@ -1,5 +1,7 @@
 ## SNACK EAT UP! Financial Analysis Dashboard 2020-2024 :office: :chart_with_upwards_trend:
 
+Note - Cannot upload pbix and xlsx file due to file size constraints.
+
 ### Problem Statement :question:
 
 The finance department of Snack Eat Up! faced challenges in understanding the financial performance and its correlation with various factors such as cluster, product category, and region. This dashboard was developed to provide insights into these key areas for the years 2020-2024, assisting finance professionals, managers, and decision-makers in formulating effective strategies.
